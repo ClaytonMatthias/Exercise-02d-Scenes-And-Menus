@@ -1,10 +1,17 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
-Exercise for MSCH-C220
+Project for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+A user-controlled ship for a space-shooter game. Added multiple levels, enemies, and weapons Created in Unity.
 
 ## Implementation
+
+Extra Points:
+1. Added two new enemy types with different movement and shooting speeds
+2. Added a shotgun weapon (PRESS V) that shoots multiple bullets at a time in a spread and has a cooldown bar in the corner of the screen
+3. Gave the game different backgrounds for each level and for start and end screen
+4. Total of 3 levels with different enemy types on each
+
 
 Created using [Unity 2022.3.45f](https://unity.com)
 
